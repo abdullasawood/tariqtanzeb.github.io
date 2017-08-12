@@ -1,2 +1,2 @@
 I don't know what's going on..
-[link](www.facebook.com)
+[link](//www.facebook.com)
